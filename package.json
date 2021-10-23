@@ -8,15 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/atoulmet/openclassrooms_css-animations.git"
+        "url": "git+https://github.com/ykazarinov/OpenclassroomsProject.git"
+        
     },
-    "author": "gerkx",
+    "author": "ykazarinov",
     "license": "ISC",
     "browserslist": "last 4 versions",
-    "bugs": {
-        "url": "https://github.com/gerkx/maintainable-css-with-sass/issues"
-    },
-    "homepage": "https://github.com/gerkx/maintainable-css-with-sass#readme",
+   
+    "homepage": "http://artfish.pro",
     "dependencies": {
         "sass-math": "^1.0.0"
     }
